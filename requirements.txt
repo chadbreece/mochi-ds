@@ -1,0 +1,8 @@
+streamlit
+gspread
+google-auth
+pandas
+datetime
+matplotlib
+plotly
+time
