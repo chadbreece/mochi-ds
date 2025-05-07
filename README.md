@@ -11,7 +11,7 @@ There is an empty credentials.json file that uses a Google Service Account to re
 ### Running the code
 Make sure your terminal is in the correct directory (this one, wherever this README is) and run the following line
 ```
-streamlit run /Users/chad_breece/Documents/GithubRepos/mochi-ds/mochi-health-takehome.py
+streamlit run mochi-health-takehome.py
 ```
 
 That's about it, you can interact with the dashboard once this code is running.
